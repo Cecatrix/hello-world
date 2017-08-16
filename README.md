@@ -1,2 +1,3 @@
 # hello-world
-Start Github
+
+Hi Im Joevel a student and this is my first time to use Github.
